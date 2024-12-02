@@ -1,4 +1,4 @@
-package dev.andreina.ex_kata_dni.model;
+package dev.andreina.ex_kata_dni.models;
 
 public class person {
     private String firstName;
